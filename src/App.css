@@ -1,0 +1,8 @@
+.switch-wrapper {
+  position: relative;
+  transition: 1s;
+}
+
+.switch-wrapper > div {
+  position: absolute;
+}
